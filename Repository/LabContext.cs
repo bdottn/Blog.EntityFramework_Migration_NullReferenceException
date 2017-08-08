@@ -5,7 +5,7 @@ namespace Repository
 {
     public class LabContext : DbContext
     {
-        public LabContext() : base(@"Server=.;Database=Lab;Integrated Security=True;")
+        public LabContext() : base(@"LabContext")
         {
         }
 
