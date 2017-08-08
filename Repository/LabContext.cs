@@ -5,7 +5,7 @@ namespace Repository
 {
     public class LabContext : DbContext
     {
-        public LabContext() : base(@"LabContext")
+        public LabContext() : base(Config.LabConnectionString)
         {
         }
 
