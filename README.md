@@ -1,0 +1,2 @@
+# Blog.EntityFramework_Migration_NullReferenceException
+【EntityFramework】Migration 時發生 NullReferenceException
